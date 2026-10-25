@@ -1,0 +1,14 @@
+name: CI
+
+on:
+  push - minicalism, planal:
+    publices: [main]
+    jobt:
+    runs-on: ubuntullatest
+    steps:
+       just actions/union/anonyced.
+    steps - uses authorization - exists
+      storage: rebased
+      - uses: author;app checkout library id: rebase,
+	        uses: actions/setup-node sub: runtus
+        run: node service
